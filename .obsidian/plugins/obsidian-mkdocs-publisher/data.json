@@ -2,7 +2,7 @@
   "github": {
     "user": "Caikun-Peng",
     "repo": "UNSW_8621_TELE",
-    "branch": "main",
+    "branch": "from_iPhone",
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": false,
@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4980
+    "rateLimit": 4931
   },
   "upload": {
     "behavior": "obsidian",
@@ -97,5 +97,5 @@
       "excludedFileName": "DRAFT"
     }
   },
-  "tabsID": "plugin-settings"
+  "tabsID": "github-configuration"
 }
