@@ -19,10 +19,10 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4999
+    "rateLimit": 4980
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
     "defaultName": "",
     "rootFolder": "",
     "yamlFolderKey": "",
@@ -69,12 +69,13 @@
     "notes": false,
     "folder": "",
     "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "charConvert": "->",
+    "useObsidianFolder": true
   },
   "plugin": {
     "shareKey": "share",
-    "fileMenu": false,
-    "editorMenu": false,
+    "fileMenu": true,
+    "editorMenu": true,
     "excludedFolder": [],
     "copyLink": {
       "enable": false,
@@ -96,5 +97,5 @@
       "excludedFileName": "DRAFT"
     }
   },
-  "tabsID": "github-configuration"
+  "tabsID": "plugin-settings"
 }
