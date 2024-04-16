@@ -1,20 +1,21 @@
 ---
 Owner: Peng, Caikun
-tags:
-  - Level-4
+Electives:
+  - Level 4
 Last edited time: 2024-04-16
 Course Progress:
   - In Progress
 Notes Progress:
   - In progress
 ---
+
 # Website
 
-> [https://moodle.telt.unsw.edu.au/course/view.php?id=81753](https://moodle.telt.unsw.edu.au/course/view.php?id=81753)  
+> [Moodle Page](https://moodle.telt.unsw.edu.au/course/view.php?id=81753)  
 
 # Textbook
 
-> https://1drv.ms/b/s!AuXfaR2IFRyojDgw_eEC7b_w0xc6?e=0mA4wV
+> [OneDrive](https://1drv.ms/b/s!AuXfaR2IFRyojDgw_eEC7b_w0xc6?e=0mA4wV)
 
 # Instructor
 
@@ -30,11 +31,7 @@ Notes Progress:
 |Mid-term examination|25%|
 |Final examination|50%|
 
-# Notes
-
-## Course Overview
-
-### Course Topics
+# Course Topics
 
 - Overview of optical fibres and optical waveguides
 - **Single mode and multimode fibres and waveguides**
@@ -56,6 +53,11 @@ The main **technical issues and considerations** when using optical fibres in co
 The main **experimental methods and measurement techniques** of optical fibres
 
 General aspects of **optical circuit and fibre design, manufacture and application**
+
+# Course Notes 
+
+- [Basics of Optical Fibres and Waveguides
+](doc/Basics%20of%20Optical%20Fibres%20and%20Waveguides.md)
 
 ### Fibre and waveguide related issues
 
@@ -141,96 +143,6 @@ General aspects of **optical circuit and fibre design, manufacture and applicati
         
         Tx, Rx
         
-
-## Basics of Optical Fibres and Waveguides
-
-- Basics
-    
-    EM spectrum
-    
-    Optical fibre communication: $1.7\mu m-0.6\mu m$﻿
-    
-    Important Applications
-    
-    Optical communication
-    
-    Optical sensing
-    
-    Optical signal processing
-    
-    - Fundamental Issues in Optical Communications
-        
-        Signal Power
-        
-        Source, Attenuation, Diffraction
-        
-        Bandwidth
-        
-        Source, Dispersion, Detection
-        
-    - Unguided and guided source
-        
-        Unguided:
-        
-        in open air, free space
-        
-        sound, light, radio, microwave…
-        
-        Features:
-        
-        Good for broadcast
-        
-        High loss
-        
-        Low bandwidth
-        
-        Insecure
-        
-        Environmental influence
-        
-        Subject to EMI
-        
-        Guided
-        
-        in transmission medium
-        
-        waveguide, cable, fibre
-        
-        Features:
-        
-        Secure and reliable
-        
-        High bandwidth
-        
-        Much less environmental and EM influence
-        
-        Land usage
-        
-    
-    Optical fibres
-    
-    Inner → Outer
-    
-    Core → Cladding → Coating → Strength Member → Outer Jacket
-    
-    $6-10\mu m$﻿ → $125\mu m$﻿ → $250\mu m$﻿
-    
-- Silica Optical Fibres
-    
-    Low loss with extremely high bandwidth
-    
-- Photonic Crystal Fibres
-    
-    Highly nonlinear
-    
-    Polarization maintaining
-    
-    Large mode area
-    
-    Endlessly single-mode
-    
-    Continuum generation
-    
 
 ## Waveguide Model and Wave Method Analysis
 
