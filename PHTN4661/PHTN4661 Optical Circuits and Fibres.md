@@ -1,5 +1,5 @@
 ---
-Owner: PPeng, Caikun
+Owner: Peng, Caikun
 tags:
   - Level-4
 Last edited time: 2024-04-16
@@ -18,16 +18,14 @@ Notes Progress:
 
 # Instructor
 
-|   |   |   |
+|Professor| Office Room| Email|
 |---|---|---|
-|Professor|Office Room|Email|
 |Gang-Ding Peng|419 EE&T|G.Peng@unsw.edu.au|
 
 # Assessment Tasks
 
-|   |   |
+|Assessment Item| Weight|
 |---|---|
-|Assessment Item|Weight|
 |Laboratory work|25%|
 |Mid-term examination|25%|
 |Final examination|50%|
@@ -77,39 +75,22 @@ General aspects of **optical circuit and fibre design, manufacture and applicati
 ## Optical Circuits and Fibres
 
 - Mode
-    
     Multimode
-    
     single-mode
 - Index
-    
     Step index
-    
-    Graded index
-    
+	Graded index
     Arbitrary index
-    
 - Analysis
-    
     Analytical analysis
-    
     Approximate analysis
-    
     Numerical analysis
-    
-
 - Special designs
-    
     Dispersion shifted
-    
     Dispersion flattened
-    
     Polarisation maintaining
-    
     Twin-core / multicore
-    
     Photonic crystal / bandgap
-    
 - **Theoretical analysis**
     
     Ray optics

@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4987
+    "rateLimit": 4999
   },
   "upload": {
     "behavior": "fixed",
@@ -56,7 +56,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": false,
       "slugify": "disable"
@@ -90,7 +90,11 @@
     "noticeError": false,
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
-    "migrated": true
+    "migrated": true,
+    "shareAll": {
+      "enable": true,
+      "excludedFileName": "DRAFT"
+    }
   },
   "tabsID": "github-configuration"
 }
