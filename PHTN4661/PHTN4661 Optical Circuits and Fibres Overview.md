@@ -58,4 +58,5 @@ General aspects of **optical circuit and fibre design, manufacture and applicati
 
 - [Basics of Optical Fibres and Waveguides
 ](doc/1.%20Basics%20of%20Optical%20Fibres%20and%20Waveguides.md)
-- [Waveguide Model and Wave Method Analysis](./doc/2.%2520Waveguide%2520Model%2520and%2520Wave%2520Method%2520Analysis.md#)
+- [Waveguide Model and Wave Method Analysis](doc/2.%20Waveguide%20Model%20and%20Wave%20Method%20Analysis.md)
+
