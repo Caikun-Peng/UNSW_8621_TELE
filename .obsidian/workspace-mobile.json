@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "88c71a1fabb83262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,10 +144,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b1aebd6f5cfbb4e",
+  "active": "88c71a1fabb83262",
   "lastOpenFiles": [
-    "未命名.md",
+    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+    "conflict-files-obsidian-git.md",
+    "未命名.md",
     "PHTN4661 Optical Circuits and Fibres Overview.md",
     "1. Basics of Optical Fibres and Waveguides.md",
     "General Solution for Differential Equations.md",
@@ -144,9 +161,6 @@
     "/1. Basics of Optical Fibres and Waveguides.md",
     "/General Solution for Differential Equations.md",
     "README.md",
-    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
-    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
     "PHTN4661/doc/General Solution for Differential Equations.md",
     "PHTN4661/images/optical_fibre_structure.png",
     "PHTN4661/doc",
