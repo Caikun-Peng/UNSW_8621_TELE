@@ -2,19 +2,19 @@
 Owner: PPeng, Caikun
 tags:
   - Level-4
-Last edited time: 2024-04-15T18:58
-Course Progress: In Progress
-Notes Progress: Not started
+Last edited time: 2024-04-16
+Course Progress:
+  - In Progress
+Notes Progress:
+  - In progress
 ---
 # Website
 
-> [!info] Notice | UNSW  
-> Staff Help  
 > [https://moodle.telt.unsw.edu.au/course/view.php?id=81753](https://moodle.telt.unsw.edu.au/course/view.php?id=81753)  
 
 # Textbook
 
-https://1drv.ms/b/s!AuXfaR2IFRyojDgw_eEC7b_w0xc6?e=0mA4wV
+> https://1drv.ms/b/s!AuXfaR2IFRyojDgw_eEC7b_w0xc6?e=0mA4wV
 
 # Instructor
 

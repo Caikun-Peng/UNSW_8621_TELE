@@ -1,10 +1,10 @@
 Level 4
 
-[[TELE4651 Wireless Communitaion Technologies]]
+[[TELE4651 Wireless Communication Technologies]]
 
 [[TELE4653 Digital Modulation & Coding]]
 
-[[PHTN4661 Optical Circuits and Fibers]]
+[[PHTN4661 Optical Circuits and Fibres]]
 
   
 

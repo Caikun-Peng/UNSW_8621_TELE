@@ -3,36 +3,27 @@ Owner: PPeng, Caikun
 tags:
   - Level-5
 Last edited time: 2024-02-21T13:32
-Course Progress: Finish
+Course Progress: Finished
 Notes Progress: In progress
 ---
 # Website
 
-> [!info] Notice  
-> Home  
 > [https://moodle.telt.unsw.edu.au/course/view.php?id=79549](https://moodle.telt.unsw.edu.au/course/view.php?id=79549)  
 
 # Textbook
 
-  
-
-[https://1drv.ms/b/s!AuXfaR2IFRyogSUuy8tDbeqst1eX?e=cbAFos](https://1drv.ms/b/s!AuXfaR2IFRyogSUuy8tDbeqst1eX?e=cbAFos)
+> [https://1drv.ms/b/s!AuXfaR2IFRyogSUuy8tDbeqst1eX?e=cbAFos](https://1drv.ms/b/s!AuXfaR2IFRyogSUuy8tDbeqst1eX?e=cbAFos)
 
 # Instructor
 
-Professor R. Ramer
-
-Office room 308 EE&T
-
-Tel 9385 - 4759
-
-Email ror@unsw.edu.au
+|Professor| Office| Tel| Email|
+|---|---|---|---|
+|R. Ramer | EE 308| 9385 - 4759| ror@unsw.edu.au|
 
 # Assessment Tasks
 
-|   |   |   |   |   |
-|---|---|---|---|---|
 |Assessment|Weighting|Aligned CLOs|Due Date|Feedback Date|
+|---|---|---|---|---|
 |1. Mid-Exam|20%|CLOs 1-3|week 5|week 8|
 |2. Assignment  <br>  <br>[TELE9755 Assignment](https://www.notion.so/TELE9755-Assignment-42cca3eab4d84bafa2a86b8fee1922bd?pvs=21)|20%|CLOs 1-3|week 8|week 10|
 |3. Final Exam|60%|CLOs 1-4|exam timetable||

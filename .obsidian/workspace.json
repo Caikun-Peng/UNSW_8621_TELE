@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d575c87cc9ee72ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "411483174e2fb025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "777a56036a4025ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42a2b120c0a5a911",
+    "type": "split",
+    "children": [
+      {
+        "id": "148c4c2f851a29de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f8802c79e435ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc0b53790495599d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Level-4",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec76d6303497f5a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8be07081b02fc8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b823246594cb5a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a788ac86515242c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1cdb05b3d09f9b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d28c041adf315fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67e9e65e1b13c125",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNSW EE&T COURSE NOTES (8621-Telecommunications).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "777a56036a4025ab",
+  "lastOpenFiles": [
+    "PHTN4661/images",
+    "TELE4651/images",
+    "TELE4653/images",
+    "TELE9753/images",
+    "TELE9754/images",
+    "TELE9755/images",
+    "PHTN4661/PHTN4661 Optical Circuits and Fibres.md",
+    "TELE9755/TELE9755 Microwave Circuits, Theory and Techniques.md",
+    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+    "[.md",
+    "TELE4653/TELE4653 Digital Modulation & Coding.md",
+    "TELE4651/TELE4651 Wireless Communication Technologies.md",
+    "TELE4651/TELE4651 Wireless Communication Technologies 1.md",
+    "TELE4651/TELE4651 Wireless Communitaion Technologies.md",
+    "TELE9755",
+    "TELE9754/TELE9754 Coding and Information Theory.md",
+    "TELE9754",
+    "TELE9753/TELE9753 Advanced Wireless Communications.md",
+    "TELE9753",
+    "TELE4653",
+    "TELE4651",
+    "PHTN4661/Tutorials reference answers.md",
+    "PHTN4661/General Solution for Differential Equations.md"
+  ]
+}
