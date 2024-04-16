@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md"
+                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b050c51ddea94caa",
+  "active": "21f8802c79e435ec",
   "lastOpenFiles": [
-    "PHTN4661/doc/Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+    "PHTN4661/doc/Basics of Optical Fibres and Waveguides.md",
     "PHTN4661.md",
     "PHTN4661/doc/General Solution for Differential Equations.md",
     "PHTN4661/doc/Tutorials reference answers.md",
