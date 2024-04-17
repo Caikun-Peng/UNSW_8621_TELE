@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0ef92633194702",
+        "id": "8d942da7590407ee",
         "type": "tabs",
-        "dimension": 49.570200573065904,
+        "dimension": 52.00573065902579,
         "children": [
           {
-            "id": "b050c51ddea94caa",
+            "id": "21847ad10e887b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +23,17 @@
         ]
       },
       {
-        "id": "8d942da7590407ee",
+        "id": "44dfbfbe9ff3dc56",
         "type": "tabs",
-        "dimension": 50.429799426934096,
+        "dimension": 47.99426934097421,
         "children": [
           {
-            "id": "21847ad10e887b62",
+            "id": "b69dc5d5ccaf5205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "8be07081b02fc8ff",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md"
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md"
               }
             }
           }
@@ -168,13 +169,17 @@
   },
   "active": "21847ad10e887b62",
   "lastOpenFiles": [
+    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/images/slab_waveguide_structure.bak.png",
+    "PHTN4661/images/slab_waveguide_structure (Custom).png",
+    "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
+    "PHTN4661/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661 Optical Circuits and Fibres Overview.md",
     "General Solution for Differential Equations.md",
     "2. Waveguide Model and Wave Method Analysis.md",
     "1. Basics of Optical Fibres and Waveguides.md",
-    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/images/optical_fibre_structure.bak.png",
     "PHTN4661/images/optical_fibre_structure (Custom).png",
     "PHTN4661/images/optical_fibre_structure.png",
