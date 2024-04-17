@@ -6,6 +6,7 @@
       {
         "id": "8d942da7590407ee",
         "type": "tabs",
+        "dimension": 49.713467048710605,
         "children": [
           {
             "id": "21847ad10e887b62",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/A. General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "mode": "source",
                 "source": true
               }
@@ -24,6 +25,7 @@
       {
         "id": "80748d3bd8bae249",
         "type": "tabs",
+        "dimension": 50.286532951289395,
         "children": [
           {
             "id": "356351d1b49de61f",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/A. General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/A. General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/A. General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/A. General Solution for Differential Equations.md"
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md"
               }
             }
           }
@@ -165,10 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "356351d1b49de61f",
+  "active": "21847ad10e887b62",
   "lastOpenFiles": [
-    "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/images/TE&TM_Modes.bak.png",
+    "PHTN4661/images/TE&TM_Modes (Custom).png",
+    "PHTN4661/images/TE&TM_Modes.png",
     "PHTN4661/doc/A. General Solution for Differential Equations.md",
+    "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
