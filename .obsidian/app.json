@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "strictLineBreaks": true,
   "livePreview": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "useTab": false
 }
