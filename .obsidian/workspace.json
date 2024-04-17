@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md"
+                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "f34354de47cc511c",
   "lastOpenFiles": [
-    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "Template/Template_Note.md",
