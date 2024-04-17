@@ -6,7 +6,7 @@
       {
         "id": "80748d3bd8bae249",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 50,
         "children": [
           {
             "id": "356351d1b49de61f",
@@ -14,8 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5838ab58a9e6d100",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "f34354de47cc511c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -70,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "8be07081b02fc8ff",
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md"
+                "file": "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md"
               }
             }
           }
@@ -147,12 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "356351d1b49de61f",
+  "active": "f34354de47cc511c",
   "lastOpenFiles": [
+    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "Template/Template_Note.md",
     "Template_Note.md",
     "README.md",
