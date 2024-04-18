@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "c9b1941ddadbe85d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8eb691e4db3e7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1aebd6f5cfbb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88c71a1fabb83262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a53f66c455d4533",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c4e1237a4a29005",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "06787580efb16db7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "926a91a6f2f49217",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "991f6baa913a9513",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "53d74951bbc70a8c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "066acfb7456fb2ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9f2ac486c68f16a4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8b6151f3961fa784",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "88c71a1fabb83262",
+  "lastOpenFiles": [
+    "未命名.md",
+    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
+    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+    "conflict-files-obsidian-git.md",
+    "PHTN4661 Optical Circuits and Fibres Overview.md",
+    "1. Basics of Optical Fibres and Waveguides.md",
+    "General Solution for Differential Equations.md",
+    "2. Waveguide Model and Wave Method Analysis.md",
+    "/PHTN4661 Optical Circuits and Fibres Overview.md",
+    "/2. Waveguide Model and Wave Method Analysis.md",
+    "/1. Basics of Optical Fibres and Waveguides.md",
+    "/General Solution for Differential Equations.md",
+    "README.md",
+    "PHTN4661/doc/General Solution for Differential Equations.md",
+    "PHTN4661/images/optical_fibre_structure.png",
+    "PHTN4661/doc",
+    "PHTN4661/images",
+    "PHTN4661"
+  ]
+}
