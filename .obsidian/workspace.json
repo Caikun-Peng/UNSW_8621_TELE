@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "35cc3562cbe3066c",
+        "id": "5838ab58a9e6d100",
         "type": "tabs",
         "children": [
           {
-            "id": "402dfdcad2012f89",
+            "id": "f34354de47cc511c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md"
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md"
               }
             }
           }
@@ -140,18 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21f8802c79e435ec",
+  "active": "f34354de47cc511c",
   "lastOpenFiles": [
-    "PHTN4661/doc/General Solution for Differential Equations.md",
-    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
-    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
-    "PHTN4661/Quick note.md",
-    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
     "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
     "README.md",
     "Template/Template_Note.md",
+    "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
@@ -163,6 +164,7 @@
     "PHTN4661/images/TE&TM_Modes.bak.png",
     "PHTN4661/images/TE&TM_Modes (Custom).png",
     "PHTN4661/images/TE&TM_Modes.png",
+    "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
     "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
     "PHTN4661/images/slab_waveguide_structure.bak.png",
     "PHTN4661/images/slab_waveguide_structure (Custom).png",
@@ -171,6 +173,7 @@
     "General Solution for Differential Equations.md",
     "2. Waveguide Model and Wave Method Analysis.md",
     "1. Basics of Optical Fibres and Waveguides.md",
+    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661/images/optical_fibre_structure.bak.png",
     "PHTN4661/images/optical_fibre_structure (Custom).png",
     "images/optical_fibre_strucure.png.md",
@@ -189,6 +192,9 @@
     "TELE9754/images",
     "TELE9755/images",
     "TELE9755/TELE9755 Microwave Circuits, Theory and Techniques.md",
+    "[.md",
+    "TELE4653/TELE4653 Digital Modulation & Coding.md",
+    "TELE4651/TELE4651 Wireless Communication Technologies.md",
     "TELE9755"
   ]
 }

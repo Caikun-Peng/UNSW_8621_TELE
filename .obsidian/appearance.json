@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Consolas"
 }
