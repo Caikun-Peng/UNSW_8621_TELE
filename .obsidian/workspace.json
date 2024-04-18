@@ -11,13 +11,8 @@
             "id": "402dfdcad2012f89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +140,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "402dfdcad2012f89",
+  "active": "21f8802c79e435ec",
   "lastOpenFiles": [
+    "PHTN4661/doc/General Solution for Differential Equations.md",
+    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+    "PHTN4661/Quick note.md",
+    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
     "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
@@ -173,7 +171,6 @@
     "General Solution for Differential Equations.md",
     "2. Waveguide Model and Wave Method Analysis.md",
     "1. Basics of Optical Fibres and Waveguides.md",
-    "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661/images/optical_fibre_structure.bak.png",
     "PHTN4661/images/optical_fibre_structure (Custom).png",
     "images/optical_fibre_strucure.png.md",
@@ -192,9 +189,6 @@
     "TELE9754/images",
     "TELE9755/images",
     "TELE9755/TELE9755 Microwave Circuits, Theory and Techniques.md",
-    "[.md",
-    "TELE4653/TELE4653 Digital Modulation & Coding.md",
-    "TELE4651/TELE4651 Wireless Communication Technologies.md",
     "TELE9755"
   ]
 }

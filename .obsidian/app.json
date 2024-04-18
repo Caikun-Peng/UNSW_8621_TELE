@@ -3,7 +3,5 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "strictLineBreaks": true,
-  "livePreview": false,
-  "propertiesInDocument": "source",
-  "useTab": false
+  "livePreview": false
 }
