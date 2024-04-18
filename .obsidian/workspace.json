@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0ef92633194702",
+        "id": "5838ab58a9e6d100",
         "type": "tabs",
-        "dimension": 49.570200573065904,
         "children": [
           {
-            "id": "b050c51ddea94caa",
+            "id": "f34354de47cc511c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d942da7590407ee",
-        "type": "tabs",
-        "dimension": 50.429799426934096,
-        "children": [
-          {
-            "id": "21847ad10e887b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
-                "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md"
+                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md"
               }
             }
           }
@@ -166,29 +147,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21847ad10e887b62",
+  "active": "f34354de47cc511c",
   "lastOpenFiles": [
+    "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
+    "README.md",
+    "Template/Template_Note.md",
+    "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
+    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
+    "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
+    "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
+    "Template_Note.md",
+    "Template",
+    "PHTN4661/images/LP_Modes.bak.png",
+    "PHTN4661/images/LP_Modes (Custom).png",
+    "PHTN4661/images/LP_Modes.png",
+    "PHTN4661/images/TE&TM_Modes.bak.png",
+    "PHTN4661/images/TE&TM_Modes (Custom).png",
+    "PHTN4661/images/TE&TM_Modes.png",
+    "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
+    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
+    "PHTN4661/images/slab_waveguide_structure.bak.png",
+    "PHTN4661/images/slab_waveguide_structure (Custom).png",
+    "PHTN4661/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661 Optical Circuits and Fibres Overview.md",
     "General Solution for Differential Equations.md",
     "2. Waveguide Model and Wave Method Analysis.md",
     "1. Basics of Optical Fibres and Waveguides.md",
-    "PHTN4661/doc/2. Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/1. Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/images/optical_fibre_structure.bak.png",
     "PHTN4661/images/optical_fibre_structure (Custom).png",
-    "PHTN4661/images/optical_fibre_structure.png",
     "images/optical_fibre_strucure.png.md",
     "images",
-    "PHTN4661/images/image.png",
-    "PHTN4661/doc/image.png",
     "PHTN4661/doc/Basics of Optical Fibres and Waveguides.md",
     "PHTN4661.md",
-    "PHTN4661/doc/General Solution for Differential Equations.md",
     "PHTN4661/doc/Tutorials reference answers.md",
-    "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
     "PHTN4661/doc",
-    "README.md",
     "2024-04-16.md",
     "未命名.canvas",
     "PHTN4661/未命名.canvas",
@@ -202,11 +195,6 @@
     "[.md",
     "TELE4653/TELE4653 Digital Modulation & Coding.md",
     "TELE4651/TELE4651 Wireless Communication Technologies.md",
-    "TELE4651/TELE4651 Wireless Communication Technologies 1.md",
-    "TELE4651/TELE4651 Wireless Communitaion Technologies.md",
-    "TELE9755",
-    "TELE9754/TELE9754 Coding and Information Theory.md",
-    "TELE9754",
-    "TELE9753/TELE9753 Advanced Wireless Communications.md"
+    "TELE9755"
   ]
 }
