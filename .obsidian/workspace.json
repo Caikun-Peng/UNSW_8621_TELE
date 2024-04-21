@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
-                "mode": "source",
+                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
+                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md"
+                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md"
               }
             }
           }
@@ -149,52 +149,53 @@
   },
   "active": "f34354de47cc511c",
   "lastOpenFiles": [
+    "TELE9753/doc/6. Frequency Diversity.md",
+    "TELE9753/doc/1. Wireless Networking - an Overview.md",
+    "TELE9753/doc/0. TELE9753 Advanced Wireless Communications Overview.md",
+    "TELE9753/doc/0. TELE 9753  Advanced Wireless Communications Overview.md",
+    "TELE9753/doc",
+    "TELE9753/images",
+    "TELE9753",
+    "PHTN4661/images/Com_Switch_EO&TO.png",
+    "PHTN4661/images/Com_Switch_Mechanical.png",
+    "PHTN4661/images/Com_Bragg-Grating_Index_2.png",
+    "PHTN4661/images/Com_Bragg-Grating_Index.png",
+    "PHTN4661/images/Com_Bragg-Grating.png",
+    "PHTN4661/images/Com_Structure_Con_PC&APC.png",
+    "PHTN4661/images/Com_Structure_Coupler.png",
+    "PHTN4661/images/Com_Structure_Connector.png",
+    "PHTN4661/images/Com_Isolators.png",
+    "PHTN4661/images/Com_Faraday.png",
+    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
+    "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
+    "PHTN4661/doc/5. PHTN4661 Optical Waveguide & Fibre Fabrication.md",
     "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
+    "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
     "README.md",
     "Template/Template_Note.md",
     "PHTN4661/doc/0. PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
     "PHTN4661/doc/2. PHTN4661 Waveguide Model and Wave Method Analysis.md",
     "PHTN4661/doc/1. PHTN4661 Basics of Optical Fibres and Waveguides.md",
     "Template_Note.md",
     "Template",
-    "PHTN4661/images/LP_Modes.bak.png",
-    "PHTN4661/images/LP_Modes (Custom).png",
-    "PHTN4661/images/LP_Modes.png",
-    "PHTN4661/images/TE&TM_Modes.bak.png",
-    "PHTN4661/images/TE&TM_Modes (Custom).png",
-    "PHTN4661/images/TE&TM_Modes.png",
-    "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
     "UNSW EE&T COURSE NOTES (8621-Telecommunications).md",
-    "PHTN4661/images/slab_waveguide_structure.bak.png",
-    "PHTN4661/images/slab_waveguide_structure (Custom).png",
     "PHTN4661/0. PHTN4661 Optical Circuits and Fibres Overview.md",
     "PHTN4661 Optical Circuits and Fibres Overview.md",
     "General Solution for Differential Equations.md",
     "2. Waveguide Model and Wave Method Analysis.md",
     "1. Basics of Optical Fibres and Waveguides.md",
     "PHTN4661/PHTN4661 Optical Circuits and Fibres Overview.md",
-    "PHTN4661/images/optical_fibre_structure.bak.png",
-    "PHTN4661/images/optical_fibre_structure (Custom).png",
     "images/optical_fibre_strucure.png.md",
     "images",
     "PHTN4661/doc/Basics of Optical Fibres and Waveguides.md",
     "PHTN4661.md",
     "PHTN4661/doc/Tutorials reference answers.md",
     "PHTN4661/doc",
-    "2024-04-16.md",
     "未命名.canvas",
     "PHTN4661/未命名.canvas",
     "PHTN4661/images",
     "TELE4651/images",
     "TELE4653/images",
-    "TELE9753/images",
-    "TELE9754/images",
-    "TELE9755/images",
-    "TELE9755/TELE9755 Microwave Circuits, Theory and Techniques.md",
-    "[.md",
-    "TELE4653/TELE4653 Digital Modulation & Coding.md",
-    "TELE4651/TELE4651 Wireless Communication Technologies.md",
-    "TELE9755"
+    "TELE9754/images"
   ]
 }
