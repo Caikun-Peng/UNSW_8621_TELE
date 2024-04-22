@@ -230,4 +230,4 @@ Compare \ddot{z}_2 to the QPSK constellation map, the original transmitted signa
 4. For zero-forcing equalizer, a receive filter $H^{−1}$ is used. Compared with MLSD which achieves full diversity gain, zero-forcing equalizer reduces the diversity gain to 1. For the general $M × N$ channel matrix, zero-forcing equalizer achieves the diversity gain of $M − N + 1$.
 
 ---
-[Back to note](6.%20Frequency%20Diversity.md)
+[Back to note](6.%20TELE9753%20Frequency%20Diversity.md)

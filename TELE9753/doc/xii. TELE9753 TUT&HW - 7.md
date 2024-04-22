@@ -18,4 +18,4 @@ Consider a CDMA communicauon system. <br/>
 2. Based on the information provided by the question, the first de-spreading signal is $y_1 = r_1-r_2-r_3$, and the second de-spreading signal is $y_2 = r_2-r_3-r_4$. According to $y_1$ and $y_2$, the Rake receiver decision is $\~{y} = (h_1^*y_1+h_2^*y_2) / (|h_1|^2+|h_2^2|)$. Therefore, the original transmitted signal can be determined by comparing with the constellation map Of the transmit signal.
 
 ---
-[Back to note](7.%20Cellular%20System%20-%20Multiple%20Access%20and%20Interference%20Management.md)
+[Back to note](7.%20TELE9753%20Cellular%20System%20-%20Multiple%20Access%20and%20Interference%20Management.md)
