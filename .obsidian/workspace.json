@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5838ab58a9e6d100",
+        "id": "38be87473513a71f",
         "type": "tabs",
         "children": [
           {
-            "id": "f34354de47cc511c",
+            "id": "fe49f237cc11e1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "64144d05523f4316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5e60e9c658ba53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +145,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md"
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md"
+              }
+            }
+          },
+          {
+            "id": "cdacc801bc53bf92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "443c03d346691111",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,35 +181,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f34354de47cc511c",
+  "active": "21f8802c79e435ec",
   "lastOpenFiles": [
-    "TELE9753/doc/6. Frequency Diversity.md",
-    "TELE9753/doc/1. Wireless Networking - an Overview.md",
+    "TELE9753/doc/6. TELE9753 Frequency Diversity.md",
+    "TELE9753/doc/1. TELE9753 Wireless Networking - an Overview.md",
+    "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
+    "TELE9753/images/CDMA_Downlink_IS-95.png",
+    "TELE9753/images/CDMA_Uplink_Handoff.png",
+    "TELE9753/images/CDMA_Uplink_IS-95_Power.png",
+    "TELE9753/images/CDMA_Uplink_IS-95.png",
+    "TELE9753/doc/Pasted image 20240422142443.png",
+    "TELE9753/images/CDMA_Uplink.png",
+    "TELE9753/images/OFDM_steps_CP.png",
+    "TELE9753/doc/OFDM_steps_CP.png",
+    "TELE9753/doc/image.png",
+    "TELE9753/images/OFDM_CP_wave.bak.png",
+    "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
     "TELE9753/doc/0. TELE9753 Advanced Wireless Communications Overview.md",
     "TELE9753/doc/0. TELE 9753  Advanced Wireless Communications Overview.md",
     "TELE9753/doc",
     "TELE9753/images",
     "TELE9753",
-    "PHTN4661/images/Com_Switch_EO&TO.png",
-    "PHTN4661/images/Com_Switch_Mechanical.png",
-    "PHTN4661/images/Com_Bragg-Grating_Index_2.png",
-    "PHTN4661/images/Com_Bragg-Grating_Index.png",
-    "PHTN4661/images/Com_Bragg-Grating.png",
-    "PHTN4661/images/Com_Structure_Con_PC&APC.png",
-    "PHTN4661/images/Com_Structure_Coupler.png",
-    "PHTN4661/images/Com_Structure_Connector.png",
-    "PHTN4661/images/Com_Isolators.png",
-    "PHTN4661/images/Com_Faraday.png",
     "PHTN4661/doc/3. PHTN4661 Waveguide Materials and Properties.md",
-    "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
     "PHTN4661/doc/5. PHTN4661 Optical Waveguide & Fibre Fabrication.md",
     "PHTN4661/doc/4. PHTN4661 Waveguide Coupling and Light launching.md",
     "PHTN4661/doc/A. PHTN4661 Appendix General Solution for Differential Equations.md",
@@ -188,8 +232,6 @@
     "images/optical_fibre_strucure.png.md",
     "images",
     "PHTN4661/doc/Basics of Optical Fibres and Waveguides.md",
-    "PHTN4661.md",
-    "PHTN4661/doc/Tutorials reference answers.md",
     "PHTN4661/doc",
     "未命名.canvas",
     "PHTN4661/未命名.canvas",
