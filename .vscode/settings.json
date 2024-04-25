@@ -1,4 +1,7 @@
 {
     "commentTranslate.source": "Google",
-    "commentTranslate.targetLanguage": "zh-CN"
+    "commentTranslate.targetLanguage": "zh-CN",
+    "[markdown]": {
+        "editor.tabSize": 2
+    }
 }

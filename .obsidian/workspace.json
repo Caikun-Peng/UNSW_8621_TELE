@@ -13,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "64144d05523f4316",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c5e60e9c658ba53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
+                "file": "TELE4653/doc/1. TELE4653 Fundamentals.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
+                "file": "TELE4653/doc/1. TELE4653 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
+                "file": "TELE4653/doc/1. TELE4653 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md"
+                "file": "TELE4653/doc/1. TELE4653 Fundamentals.md"
               }
             }
           },
@@ -167,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md"
+                "file": "TELE4653/doc/1. TELE4653 Fundamentals.md"
               }
             }
           }
@@ -190,21 +171,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21f8802c79e435ec",
+  "active": "fe49f237cc11e1a2",
   "lastOpenFiles": [
+    "TELE4653/images/QAM_Constellation.png",
+    "TELE4653/images/PSK_Constellation.png",
+    "TELE4653/images/PSK.png",
+    "TELE4653/images/QAM.png",
+    "TELE4653/doc/image.png",
+    "TELE9753/images/QAM.png",
+    "TELE4653/images/PAM_Modulation.png",
+    "TELE4653/images/PAM_Constellation.png",
+    "TELE9753/images/PAM_Modulation.png",
+    "TELE9753/images/PAM_Constellation.png",
+    "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
     "TELE9753/doc/6. TELE9753 Frequency Diversity.md",
     "TELE9753/doc/1. TELE9753 Wireless Networking - an Overview.md",
-    "TELE9753/doc/7. TELE9753 Cellular System - Multiple Access and Interference Management.md",
     "TELE9753/images/CDMA_Downlink_IS-95.png",
-    "TELE9753/images/CDMA_Uplink_Handoff.png",
-    "TELE9753/images/CDMA_Uplink_IS-95_Power.png",
-    "TELE9753/images/CDMA_Uplink_IS-95.png",
-    "TELE9753/doc/Pasted image 20240422142443.png",
-    "TELE9753/images/CDMA_Uplink.png",
-    "TELE9753/images/OFDM_steps_CP.png",
-    "TELE9753/doc/OFDM_steps_CP.png",
-    "TELE9753/doc/image.png",
-    "TELE9753/images/OFDM_CP_wave.bak.png",
     "PHTN4661/doc/6. PHTN4661 Optical Components & Circuits.md",
     "TELE9753/doc/0. TELE9753 Advanced Wireless Communications Overview.md",
     "TELE9753/doc/0. TELE 9753  Advanced Wireless Communications Overview.md",
