@@ -40,7 +40,7 @@ Note ID: TELE9753-FINAL
 - How to maximize the data rate for each user.
 - Finding the key points of a capacity region for two users given the required information such as powers and bandwidth.
 ## Example questions:
-- All the questions that are available in the notes and the homework and tutorials.
+- [All the questions that are available in the notes and the homework and tutorials.](iv.%20TELE9753%20TUT&HW%20-%209.md)
 - How to calculate capacity region for either [uplink](9.%20TELE9753%20Multiuser%20Capacity%20and%20Opportunistic%20Communications.md#uplink-awgn-capacity) or [downlink](9.%20TELE9753%20Multiuser%20Capacity%20and%20Opportunistic%20Communications.md#downlink-capacity) system?
 - Find the method used for the capacity region and detailed steps.
 - Calculation: maximize the data rate based on information obtained from questions or previous steps.
@@ -72,3 +72,8 @@ Note ID: TELE9753-FINAL
 - Calculation: given enough information about the OFDM system, such as total bandwidth, number of subcarriers, modulation type, etc., you should be able to find the subchannel bandwidth, the transmission time for one OFDM symbol, the data rate of the OFDM system, and overhead of the cyclic prefix.
 ## Example questions
 - [All the questions that are available in the notes and the homework and tutorials.](6.%20TELE9753%20Frequency%20Diversity.md)
+
+# Tutorials 
+- [Tutorial 6](xi.%20TELE9753%20TUT&HW%20-%206.md)
+- [Tutorial 7](xii.%20TELE9753%20TUT&HW%20-%207.md)
+- [Tutorial 9](iv.%20TELE9753%20TUT&HW%20-%209.md)
