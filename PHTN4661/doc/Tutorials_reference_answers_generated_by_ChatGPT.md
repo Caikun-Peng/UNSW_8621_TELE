@@ -14,14 +14,14 @@ Content
 
 1. What are optical waveguides? What are optical fibres? What are their main features and applications? 
 
-    **Optical waveguides** are structures that guide electromagnetic waves in the optical spectrum. </br>
-    **Optical fibres** are a type of waveguide that is commonly used for long-distance communication and other applications. </br>
-    The main features of optical waveguides and fibres include the ability to confine light within a small area, low loss transmission, and the ability to guide light around curves. </br>
+    **Optical waveguides** are structures that guide electromagnetic waves in the optical spectrum.   
+    **Optical fibres** are a type of waveguide that is commonly used for long-distance communication and other applications.   
+    The main features of optical waveguides and fibres include the ability to confine light within a small area, low loss transmission, and the ability to guide light around curves.   
     They are used in telecommunications, medical devices, and sensors.
 
 2. What are optical circuits? Where and how they can be useful? What are the main issues and challenges in developing optical circuits? 
    
-    **Optical circuits** are circuits that use light instead of electricity to perform functions. </br>
+    **Optical circuits** are circuits that use light instead of electricity to perform functions.   
     They can be useful in high-speed communication systems, computing, and sensing. The main issues in developing optical circuits include integration with existing electronic systems, miniaturization, and managing losses.
 
 3. Describe briefly how waveguide modes are defined and obtained based on wave theory. 
@@ -30,13 +30,13 @@ Content
 
 4. What are modes in general form in an optical waveguide? What are the main parameters? 
 
-    In an optical waveguide, modes are the distinct patterns of electromagnetic field distribution that can propagate along the waveguide. </br>
+    In an optical waveguide, modes are the distinct patterns of electromagnetic field distribution that can propagate along the waveguide.   
     The main parameters include the mode number, propagation constant, and field distribution.
 
 5. What are TEM waves? What are TE waves? What are TM waves? 
 
-    **TEM** waves are transverse electromagnetic waves with no electric or magnetic field in the direction of propagation. </br>
-    **TE** waves are transverse electric waves with no electric field in the direction of propagation. </br> 
+    **TEM** waves are transverse electromagnetic waves with no electric or magnetic field in the direction of propagation.   
+    **TE** waves are transverse electric waves with no electric field in the direction of propagation.    
     **TM** waves are transverse magnetic waves with no magnetic field in the direction of propagation.
 
 6. What is a slab waveguide? How the waveguide parameters, U, W and V, are defined for a slab optical waveguide? 
@@ -73,7 +73,7 @@ Content
 
 14. For a step index optical fibre with core radius $a=5\mu m$, $n_c=1.466$ and $n_{cl}=1.46$, what is its wavelength range of single mode operation? 
 
-    The wavelength is calculated by $\lambda_c=\dfrac{2\pi}{V_c}a\sqrt{n_1^2-n_2^2}$. </br>
+    The wavelength is calculated by $\lambda_c=\dfrac{2\pi}{V_c}a\sqrt{n_1^2-n_2^2}$.   
     For single mode, $V_c=2.405$. Then, the wavelength is
     $$\lambda_c=\dfrac{2\pi}{2.405}\times5\mu m\sqrt{1.466^2-1.46^2}=1.73\mu m$$
 
@@ -86,39 +86,39 @@ Content
 
 1. What are usual material properties of main concerns for planar optical waveguides? Why? 
 
-    Material properties of concern for planar optical waveguides include refractive **index, absorption loss, scattering loss, and environmental stability**. </br>
+    Material properties of concern for planar optical waveguides include refractive **index, absorption loss, scattering loss, and environmental stability**.   
     These properties are crucial for efficient light confinement and propagation in the waveguide.
 
 2. What are usual material properties of main concerns for optical fibres? Why? 
 
-    Material properties of concern for optical fibres include refractive **index, attenuation, dispersion, and mechanical strength**. </br>
+    Material properties of concern for optical fibres include refractive **index, attenuation, dispersion, and mechanical strength**.   
     These properties affect the fibre's performance in transmitting light over long distances with minimal loss and distortion.
 
 3. What are typical materials used for planar optical waveguides? What are their main differences? 
 
-    Typical materials used for planar optical waveguides include **silica (SiO2), silicon (Si), and various polymers**. </br>
+    Typical materials used for planar optical waveguides include **silica (SiO2), silicon (Si), and various polymers**.   
     The main differences among these materials are their refractive indices, optical loss characteristics, and compatibility with other fabrication processes.
 
 4. What are typical materials used for optical fibres? What are their main differences? 
 
-    Typical materials used for optical fibres include **silica-based glasses for the core and cladding, with dopants such as germanium or phosphorus to modify the refractive index**. </br>
+    Typical materials used for optical fibres include **silica-based glasses for the core and cladding, with dopants such as germanium or phosphorus to modify the refractive index**.   
     The main differences are in the specific composition and resulting optical properties.
 
 5. What are main contributing processes or factors to optical attenuation in optical waveguides and fibres? 
 
-    Main contributing factors to optical attenuation in waveguides and fibres include **absorption, scattering, and radiation losses**. </br>
+    Main contributing factors to optical attenuation in waveguides and fibres include **absorption, scattering, and radiation losses**.   
     These factors can be influenced by **the material composition, fabrication process, and environmental conditions**.
 
 6. What are typical light scatterings in optical materials? 
 
-    Typical light scatterings in optical materials include **Rayleigh scattering, Mie scattering, and Brillouin scattering**. </br>
+    Typical light scatterings in optical materials include **Rayleigh scattering, Mie scattering, and Brillouin scattering**.   
     These phenomena result from **interactions between light and microscopic variations or particles in the material**.
 
 7. What causes Rayleigh scattering in optical materials? What causes UV         absorptions in optical materials? What causes IR absorption in optical materials? What are their respective wavelength dependencies? 
 
-    Rayleigh scattering is caused by **small inhomogeneities in the material**. </br> 
-    UV absorption is often due to **electronic transitions** in the material.</br>
-    IR absorption is typically due to **vibrational modes** of the material's molecules. </br>
+    Rayleigh scattering is caused by **small inhomogeneities in the material**.    
+    UV absorption is often due to **electronic transitions** in the material.  
+    IR absorption is typically due to **vibrational modes** of the material's molecules.   
     Their wavelength dependencies vary, with **Rayleigh scattering inversely proportional to the fourth power of the wavelength**, while UV and IR absorptions are more **material-specific**.
 
 8. Why silica optical fibre is dominant in fibre optics? What are the key features essential for their applications? 
@@ -127,7 +127,7 @@ Content
 
 9. How OH bond (OH-) would affect silica optical fibre’s attenuation? What is the typical attenuation curve of silica fibre? What is the typical attenuation curve of an OH free or ‘dry’ optical fibre (e.g. zero water peak (ZWP) fibre)? 
 
-    The OH bond (OH-) can cause absorption peaks in the infrared region, affecting the attenuation of silica optical fibres. </br>
+    The OH bond (OH-) can cause absorption peaks in the infrared region, affecting the attenuation of silica optical fibres.   
     A typical attenuation curve of silica fibre shows minima around 1310 nm and 1550 nm, while an OH-free or 'dry' fibre would have reduced attenuation in the OH absorption bands.
 
 10. What is the reason that replacing CH bond with CF bond in polymer optical fibres can reduce material loss significantly? 
@@ -140,23 +140,23 @@ Content
 
 12. Optical intensity of transmitted signal Io, through a material of length z, is related to the incident intensity Ii that follows the inverse exponential power law (usually referred to as Beer–Lambert law): $I(z)=I_ie^{-\alpha z}$. Here $\alpha$ is the attenuation coefficient (or linear attenuation coefficient), measured in inverse of length, e.g. $cm^{-1}$ or $1/𝑐𝑚$. Optical glass is of high quality if its attenuation coefficient is less 0.01 $cm^{-1}$. Fused or synthetic silica by any means is extremely transparent and its attenuation coefficient is less 0.00001 $cm^{-1}$. Work out the attenuation coefficients for them in dB/km. (Ans: 4343 dB/km, 4.3 dB/km) 
 
-    $a[\text{dB}/km]=10\log(e^{a[cm^{-1}]})=a[cm^{-1}]10\log(e)=\dfrac{a}{10^{-5}}[km^{-1}]10\log(e)=4.343a\cdot10^{5}[\text{dB}/km]$</br>
-    $a_{0.01cm^{-1}}[\text{dB}/km]=4.343\cdot0.01\cdot10^5=4343\ \text{dB}/km$</br>
+    $a[\text{dB}/km]=10\log(e^{a[cm^{-1}]})=a[cm^{-1}]10\log(e)=\dfrac{a}{10^{-5}}[km^{-1}]10\log(e)=4.343a\cdot10^{5}[\text{dB}/km]$  
+    $a_{0.01cm^{-1}}[\text{dB}/km]=4.343\cdot0.01\cdot10^5=4343\ \text{dB}/km$  
     $a_{0.00001cm^{-1}}[\text{dB}/km]=4.343\cdot0.00001\cdot10^5=4.343\ \text{dB}/km$
 
 13. Give an estimate of the percentage of light that would reach a 1cm, 5cm and 10cm thickness of optical glass if its attenuation is 0.1 $cm^{-1}$. (Ans: 90.5%, 60.7%, 36.8%) 
 
-    $I(z) =I_ie^{-\alpha z}$</br>
-    $I(1) =I_ie^{-0.1\cdot1} =0.905I_i \to 90.5\%$</br>
-    $I(5) =I_ie^{-0.1\cdot5} =0.607I_i \to 60.7\%$</br>
-    $I(10)=I_ie^{-0.1\cdot10}=0.368I_i \to 36.8\%$</br>
+    $I(z) =I_ie^{-\alpha z}$  
+    $I(1) =I_ie^{-0.1\cdot1} =0.905I_i \to 90.5\%$  
+    $I(5) =I_ie^{-0.1\cdot5} =0.607I_i \to 60.7\%$  
+    $I(10)=I_ie^{-0.1\cdot10}=0.368I_i \to 36.8\%$  
 
 14. Give an estimate of the percentage of light that would reach a 10km, 50km and 100km length of optical fibre if its attenuation is 0.2dB/km. (Ans: 63.1%, 10.0%, 1.0%) 
 
-    $I(z)  =I_i10^{-\alpha z/10}$</br>
-    $I(10) =I_i10^{-0.2\cdot10/10} =0.631I_i \to63.1\%$</br>
-    $I(50) =I_i10^{-0.2\cdot50/10} =0.1I_i   \to10\%$</br>
-    $I(100)=I_i10^{-0.2\cdot100/10}=0.01I_i  \to1\%$</br>
+    $I(z)  =I_i10^{-\alpha z/10}$  
+    $I(10) =I_i10^{-0.2\cdot10/10} =0.631I_i \to63.1\%$  
+    $I(50) =I_i10^{-0.2\cdot50/10} =0.1I_i   \to10\%$  
+    $I(100)=I_i10^{-0.2\cdot100/10}=0.01I_i  \to1\%$  
 
 15. What is microbending of optical fibre? How would it affect the fibre’s transmission? 
 
@@ -164,12 +164,12 @@ Content
 
 16. What is macrobending of optical fibre? How would it affect the fibre’s transmission? 
 
-    Macrobending refers to large-scale bends, which can also cause attenuation due to the loss of guided modes. </br>
+    Macrobending refers to large-scale bends, which can also cause attenuation due to the loss of guided modes.   
     It affects transmission by causing additional loss, particularly at wavelengths close to the cutoff wavelength.
 
 17. How microbending would affact a single mode optical fibre? How macrobending would affact a single mode optical fibre? 
 
-    Microbending in a single-mode optical fibre can cause significant loss due to the tight confinement of the mode. </br>
+    Microbending in a single-mode optical fibre can cause significant loss due to the tight confinement of the mode.   
     Macrobending can lead to cutoff of the mode, resulting in high losse.
 
 18. How microbending would affact a multimode optical fibre? How macrobending would affact a multimode optical fibre? 
@@ -184,8 +184,8 @@ Content
 
 1. What are traditional glass fibre fabrication techniques? What are their advantages and disadvantages? 
 
-    Traditional glass fibre fabrication techniques include the Chemical Vapor Deposition (CVD) methods such as Outside Vapor Deposition (OVD), Modified Chemical Vapor Deposition (MCVD), and Vapor Axial Deposition (VAD). </br>
-    Advantages include high purity and control over the refractive index profile. </br>
+    Traditional glass fibre fabrication techniques include the Chemical Vapor Deposition (CVD) methods such as Outside Vapor Deposition (OVD), Modified Chemical Vapor Deposition (MCVD), and Vapor Axial Deposition (VAD).   
+    Advantages include high purity and control over the refractive index profile.   
     Disadvantages include the complexity of the process and the need for high temperatures.
 
 2. What are key requirements and considerations for low-loss silica optical fibre designs and fabrications? 
