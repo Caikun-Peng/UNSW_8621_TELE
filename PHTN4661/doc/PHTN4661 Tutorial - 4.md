@@ -22,6 +22,12 @@ Note ID: PHTN4661-Tut-3
     $$
         \eta = \frac{1}{2} (NA)^2 (\sigma+1) \left\{\begin{aligned}&\frac{A_f}{A_s}&&A_f<A_s\\&1&&A_f>A_s\end{aligned}\right.
     $$
+    $$
+      d\Omega=\int_{0}^{2\pi}\sin\theta d\phi
+    $$
+    $$
+      P=\int_{0}^{\theta_{\max}}I_0\cos\theta d\Omega
+    $$
 
 3. #不会 For the same case as above question, assume that the SI-MM optical fibre has its coating removed and exposed to air with no=1. In this case, when coupling light into fibre core, some power will be coupled into cladding and propagate as cladding modes along the fibre.   
     Considering $A_f > A_s$, work out what fraction of optical power will be launched into cladding and guided along the fibre as cladding modes.   
@@ -45,10 +51,10 @@ Note ID: PHTN4661-Tut-3
     Derive the launching efficiency for this case in a step-by step approach.
 
     > $$\begin{align*}\eta 
-        &= \frac{\left|\displaystyle\int_{0}^{\infty}{E_S(r)E_f(r)dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|E_S(r)\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|E_f(r)\right|^2dr}} \\
-        &= \frac{\left|\displaystyle\int_{0}^{\infty}{𝑒^{−𝑟^2/2𝜔_𝑠^2}𝑒^{−𝑟^2/2𝜔_𝑓^2}dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑠^2}\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑓^2}\right|^2dr}} \\
-        &= \frac{\left|\displaystyle\int_{0}^{\infty}{𝑒^{−𝑟^2/2𝜔_𝑠^2−𝑟^2/2𝜔_𝑓^2}dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑠^2}\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑓^2}\right|^2dr}} \\
-       \end{align*}$$ 
+      &= \frac{\left|\displaystyle\int_{0}^{\infty}{E_S(r)E_f(r)dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|E_S(r)\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|E_f(r)\right|^2dr}} \\
+      &= \frac{\left|\displaystyle\int_{0}^{\infty}{𝑒^{−𝑟^2/2𝜔_𝑠^2}𝑒^{−𝑟^2/2𝜔_𝑓^2}dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑠^2}\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑓^2}\right|^2dr}} \\
+      &= \frac{\left|\displaystyle\int_{0}^{\infty}{𝑒^{−𝑟^2/2𝜔_𝑠^2−𝑟^2/2𝜔_𝑓^2}dr}\right|^2}{\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑠^2}\right|^2dr}\displaystyle\int_{0}^{\infty}{\left|𝑒^{−𝑟^2/2𝜔_𝑓^2}\right|^2dr}} \\
+      \end{align*}$$ 
 
 6. For a step-index SMF operating at $1550nm$ with the following parameters:   
         Core radius, $a$ $5\mu m$  
