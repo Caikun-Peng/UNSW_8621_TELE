@@ -71,6 +71,8 @@ Note ID: PHTN4661-Tut-5
         > 
     2. If the LED is used as the digital signal source over a 10 km link of the fibre, estimate the maximum possible data rate.
 
+    [link](https://www.desmos.com/calculator/tbiv2y90fd)
+
 2. For a commercial single-mode silica optical fibre operating at $\lambda = 1.55 μm$, with the material dispersion $D = 17 ps/nm/km$. This fibre has its cut-off wavelength at $\lambda_c = 1.26 μm$, its cladding index $n_2=1.46$, and its core radius $a=5μm$.
     1. If a LD of spectral width $S_\lambda= 0.01 nm$, is used as for light transmitter, estimate the value of bitrate - distance product, i.e. B$\cdot$L, for this fibre. 
         > 
